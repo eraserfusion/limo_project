@@ -3,8 +3,9 @@
 # 2. config.build.yml
 # 3. config.yml
 
-name: std
+name:        std
 description: std
+url:         http://overlandparklimocompany.com
 author:
   name: EraserFusion
   email: steven@stevenscloud.com
